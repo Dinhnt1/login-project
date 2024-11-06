@@ -1,33 +1,33 @@
-.left{
+.left {
   padding: 5px;
-  width: 60%;
-    display: flex;
-    justify-content: center;
-    overflow: hidden;
-    background-color: #FFFF;
-    grid-auto-columns: auto;
-    .inside{
-        width: 98%;
-        background-color: #FFE6C9; 
-        border-radius: 20px 0 0 20px;
-      } 
-      .text{
-        line-height: 1px;
-        color:#aa0daf;
-      }
-      .first-paragraph {
-        text-align: center; 
-        font-size: 25px;
-        top:-20px
-      }
-      .second-paragraph {
-        text-align: center; 
-        font-size: 15px;
-      }   
+  width: 65%;
+  display: flex;
+  justify-content: center;
+  overflow: hidden;
+  background-color: #ffff;
+  grid-auto-columns: auto;
+  .inside {
+    width: 100%;
+    background-color: #ffe6c9;
+    border-radius: 20px 0 0 20px;
+  }
+  .text {
+    line-height: 1px;
+    color: #aa0daf;
+  }
+  .first-paragraph {
+    text-align: center;
+    font-size: 25px;
+    top: -20px;
+  }
+  .second-paragraph {
+    text-align: center;
+    font-size: 15px;
+  }
 }
 .left img {
-  width: 100%;        
-  height: 70%;        
+  width: 100%;
+  height: 70%;
   border-radius: 20px;
-  margin-bottom: 20px; 
+  margin-bottom: 20px;
 }
