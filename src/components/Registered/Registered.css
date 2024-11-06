@@ -1,0 +1,30 @@
+.ant-register{
+    width: 40vw;
+    height: 60vh;
+    padding: 40px;
+    display: grid;
+    justify-content: center;
+    align-content: stretch;
+    align-items: center;;
+
+
+.ant-registered-login{
+    display: flex;
+      align-items: center;
+      justify-content: center;
+      width: 145%;
+      background-color: #aa0daf;
+      font-weight: bold;
+      margin-left: -100px;
+    }
+      .back {
+        font-size: 15px;
+        color: #aa0daf;
+        display: flex;
+        margin-bottom: 5px;
+    }
+
+}
+
+
+
